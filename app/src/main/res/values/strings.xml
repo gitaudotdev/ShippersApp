@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShippersApp</string>
+    <string name="title_activity_track_shipping">Map</string>
+</resources>

@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "478759848389",
+    "firebase_url": "https://talin-foods097.firebaseio.com",
+    "project_id": "talin-foods097",
+    "storage_bucket": "talin-foods097.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478759848389:android:2093e68008556a28",
+        "android_client_info": {
+          "package_name": "com.codekid.shippersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478759848389-brmqnv45p7d7mdnj2f04tkl6rle22sne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codekid.shippersapp",
+            "certificate_hash": "5ce3d31da30534dae2ef8b0700d15822d038626d"
+          }
+        },
+        {
+          "client_id": "478759848389-qlr1sdgc1c7r9tq32u9iq0aq8p6pe6t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCISqJiK_cIPM251Ut6A08-3V5ES7kaks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478759848389-qlr1sdgc1c7r9tq32u9iq0aq8p6pe6t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478759848389:android:ef85cf33f68e07ef",
+        "android_client_info": {
+          "package_name": "com.codekid.talinshipper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478759848389-m41br0v3gs1alk7jnpsdcjsg40g6sske.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codekid.talinshipper",
+            "certificate_hash": "5ce3d31da30534dae2ef8b0700d15822d038626d"
+          }
+        },
+        {
+          "client_id": "478759848389-qlr1sdgc1c7r9tq32u9iq0aq8p6pe6t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCISqJiK_cIPM251Ut6A08-3V5ES7kaks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478759848389-qlr1sdgc1c7r9tq32u9iq0aq8p6pe6t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478759848389:android:b3e3dc6507c26f5c",
+        "android_client_info": {
+          "package_name": "gitau.dev.talinserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478759848389-hoiahnikg6sk8t8ef84jh3li55n72qd3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gitau.dev.talinserver",
+            "certificate_hash": "8fce4a1cf6867bff46b94b68405760df04443552"
+          }
+        },
+        {
+          "client_id": "478759848389-qlr1sdgc1c7r9tq32u9iq0aq8p6pe6t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCISqJiK_cIPM251Ut6A08-3V5ES7kaks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478759848389-qlr1sdgc1c7r9tq32u9iq0aq8p6pe6t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478759848389:android:33780ce136a1d04b",
+        "android_client_info": {
+          "package_name": "ke.co.talin.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478759848389-v9kafkqd0ej04gn2uok1bob99qbquc5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ke.co.talin.myapplication",
+            "certificate_hash": "8fce4a1cf6867bff46b94b68405760df04443552"
+          }
+        },
+        {
+          "client_id": "478759848389-qlr1sdgc1c7r9tq32u9iq0aq8p6pe6t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCISqJiK_cIPM251Ut6A08-3V5ES7kaks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478759848389-qlr1sdgc1c7r9tq32u9iq0aq8p6pe6t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
